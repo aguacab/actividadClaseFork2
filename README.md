@@ -1,7 +1,7 @@
 # actividadClaseFork2
 ##Tema4Actividad de clase
 
-Actividad de clase del modúlo **_Entornos de Desarrollo_** 
+Actividad de clase del modúlo: **_Entornos de Desarrollo_** 
 
 
 ## Tareas a realizar
